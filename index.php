@@ -1,5 +1,5 @@
 <?php  
-	abstract class plane {
+	abstract class Plane {
 		private $weight;
 		private $speed;
 		private $length;
